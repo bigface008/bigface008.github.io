@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Java Study Notes</title>
+      <link href="/2019/02/25/java-family-study-account/"/>
+      <url>/2019/02/25/java-family-study-account/</url>
+      
+        <content type="html"><![CDATA[<p>本文用于记录Java<del>补习</del>学习过程中遇到的各种Bug以及相应的解决方案。所有相应的代码存放在<a href="https://github.com/bigface008/learn-java-family" target="_blank" rel="noopener">learn-java-family</a>仓库中。目前考虑的学习路线大致是参考<a href="https://www.zhihu.com/question/307096748" target="_blank" rel="noopener">知乎上相关问题</a>来规划的。坚持使用idea做主力开发工具。<br><a id="more"></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> learn </tag>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>C/C++ Study Notes</title>
       <link href="/2019/02/08/c-family-study-account/"/>
       <url>/2019/02/08/c-family-study-account/</url>

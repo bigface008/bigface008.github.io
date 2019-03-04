@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bigface008.github.io/"/>
-  <updated>2019-02-13T05:09:49.534Z</updated>
+  <updated>2019-02-25T05:06:43.090Z</updated>
   <id>https://bigface008.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java Study Notes</title>
+    <link href="https://bigface008.github.io/2019/02/25/java-family-study-account/"/>
+    <id>https://bigface008.github.io/2019/02/25/java-family-study-account/</id>
+    <published>2019-02-25T05:00:07.000Z</published>
+    <updated>2019-02-25T05:06:43.090Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文用于记录Java<del>补习</del>学习过程中遇到的各种Bug以及相应的解决方案。所有相应的代码存放在<a href="https://github.com/bigface008/learn-java-family" target="_blank" rel="noopener">learn-java-family</a>仓库中。目前考虑的学习路线大致是参考<a href="https://www.zhihu.com/question/307096748" target="_blank" rel="noopener">知乎上相关问题</a>来规划的。坚持使用idea做主力开发工具。<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文用于记录Java&lt;del&gt;补习&lt;/del&gt;学习过程中遇到的各种Bug以及相应的解决方案。所有相应的代码存放在&lt;a href=&quot;https://github.com/bigface008/learn-java-family&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;learn-java-family&lt;/a&gt;仓库中。目前考虑的学习路线大致是参考&lt;a href=&quot;https://www.zhihu.com/question/307096748&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;知乎上相关问题&lt;/a&gt;来规划的。坚持使用idea做主力开发工具。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="java" scheme="https://bigface008.github.io/categories/java/"/>
+    
+    
+      <category term="learn" scheme="https://bigface008.github.io/tags/learn/"/>
+    
+      <category term="java" scheme="https://bigface008.github.io/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>C/C++ Study Notes</title>
